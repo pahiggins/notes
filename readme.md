@@ -1,3 +1,3 @@
-# Meteor Boilerplate
+# Notes
 
-This includes a basic react and auth setup.
+This is a simple notes web app.
